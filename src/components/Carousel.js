@@ -12,7 +12,6 @@ const images = [
 "https://www.bajaao.com/cdn/shop/files/studio_2e94c354-e4ec-49ce-90d5-665f183916df.jpg?v=1766058979&width=2000",
 "https://www.bajaao.com/cdn/shop/files/studio_2e94c354-e4ec-49ce-90d5-665f183916df.jpg?v=1766058979&width=2000"
 ,
-"https://www.bajaao.com/cdn/shop/files/studio_2e94c354-e4ec-49ce-90d5-665f183916df.jpg?v=1766058979&width=2000"
 
 ];
 
