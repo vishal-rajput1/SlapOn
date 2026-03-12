@@ -9,11 +9,8 @@ const images = [
 "https://www.bajaao.com/cdn/shop/files/Waves_-_Hero_UPSCALED.jpg?v=1772610013&width=2000",
 "https://www.bajaao.com/cdn/shop/files/uad_hero_-_final_redone.jpg?v=1772691287&width=1400",
 "https://www.bajaao.com/cdn/shop/files/Buy_Pro_Tools_Studio_-_Hero_banner.jpg?v=1772690317&width=1400",
-"https://www.bajaao.com/cdn/shop/files/studio_2e94c354-e4ec-49ce-90d5-665f183916df.jpg?v=1766058979&width=2000",
 "https://www.bajaao.com/cdn/shop/files/studio_2e94c354-e4ec-49ce-90d5-665f183916df.jpg?v=1766058979&width=2000"
-,
-"https://www.bajaao.com/cdn/shop/files/studio_2e94c354-e4ec-49ce-90d5-665f183916df.jpg?v=1766058979&width=2000"
-//yuh
+
 ];
 
 const [index, setIndex] = useState(0);

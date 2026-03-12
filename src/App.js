@@ -15,7 +15,7 @@ function App() {
   return (
     <div>
       <Header />
-      <Carousel />
+      <Carousel />  
       <Categories />
       <FeaturedProducts />
       <PromoAnimation/>
