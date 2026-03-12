@@ -1,10 +1,10 @@
 import React from "react";
-// import "./GetUpdatedButton.css";
+import { FaWhatsapp } from "react-icons/fa";
 
 function GetUpdatedButton() {
   return (
     <button className="get-updated-btn">
-      Get Updated
+      <FaWhatsapp size={28} />
     </button>
   );
 }
